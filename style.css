@@ -1,0 +1,21 @@
+
+
+body{
+    background-image: url("https://source.unsplash.com/WLUHO9A_xik/1600x900");
+    font-family: "Arial, Helvetica, Arial, sans-serif";
+}
+
+form{   
+    margin-top:100px ;
+    margin-bottom: 40px;
+    background-color: #eee;    
+/* width:50% !important; */
+}
+
+form h1{
+    text-align: center;
+    margin-bottom:20px ;
+}
+button {
+    width: 100%;
+}
